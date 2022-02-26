@@ -1,0 +1,12 @@
+[submodule "Apple-Tab-Bar"]
+	path = Apple-Tab-Bar
+	url = https://github.com/JonathanXDR/Apple-Tab-Bar
+[submodule "Apple-Graphs"]
+	path = Apple-Graphs
+	url = https://github.com/JonathanXDR/Apple-Graphs
+[submodule "Apple-Modal"]
+	path = Apple-Modal
+	url = https://github.com/JonathanXDR/Apple-Modal
+[submodule "Apple-Music-Slideshow"]
+	path = Apple-Music-Slideshow
+	url = https://github.com/JonathanXDR/Apple-Music-Slideshow
