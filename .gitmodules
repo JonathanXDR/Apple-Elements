@@ -10,3 +10,9 @@
 [submodule "Apple-Music-Slideshow"]
 	path = Apple-Music-Slideshow
 	url = https://github.com/JonathanXDR/Apple-Music-Slideshow
+[submodule "Apple-Loading-Screen"]
+	path = Apple-Loading-Screen
+	url = https://github.com/JonathanXDR/Apple-Loading-Screen
+[submodule "Apple-Mac-Morph"]
+	path = Apple-Mac-Morph
+	url = https://github.com/JonathanXDR/Apple-Mac-Morph
