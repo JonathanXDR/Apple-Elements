@@ -16,3 +16,9 @@
 [submodule "Apple-Mac-Morph"]
 	path = Apple-Mac-Morph
 	url = https://github.com/JonathanXDR/Apple-Mac-Morph
+[submodule "Apple-Videoplayer"]
+	path = Apple-Videoplayer
+	url = https://github.com/JonathanXDR/Apple-Videoplayer
+[submodule "Wonderful-Tools-Screensaver"]
+	path = Wonderful-Tools-Screensaver
+	url = https://github.com/heysaik/Wonderful-Tools-Screensaver
